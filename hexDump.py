@@ -1,3 +1,5 @@
+# Author: Omar Sanchez
+
 import binascii
 import re
 import sys
